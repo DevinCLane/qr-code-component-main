@@ -64,5 +64,4 @@ Mobile
 ## Author
 
 -   Website - [Devin Lane](https://www.devinlane.com)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 -   Bluesky - [@devinlane.com](https://bsky.app/profile/devinlane.com)
