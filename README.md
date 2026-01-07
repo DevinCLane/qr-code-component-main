@@ -23,19 +23,18 @@ Here's my code for the [QR code component challenge on Frontend Mentor](https://
 <p>
 Desktop
 </p>
-<img src="./images/screenshot-desktop.png" width=50%>
+<img src="./images/screenshot-desktop.png" width=70%>
 </div>
 <div>
 <p>
 Mobile
 </p>
-<img src="./images/screenshot-mobile.png" width=20%>
+<img src="./images/screenshot-mobile.png" width=40%>
 </div>
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   [Live Site URL](https://github.com/DevinCLane/qr-code-component-main)
 
 ## My process
 
