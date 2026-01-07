@@ -54,7 +54,10 @@ Mobile
 
 ### Continued development
 
--   Going deeper on when and why to create classes and IDs, how to organize your CSS better, going deeper on ch, rem, vh, and the specific CSS units beyond px, mobile first development, responsive design
+-   Going deeper on when and why to create classes and IDs. As in, how to best organize the CSS conceptual units you are working with.
+-   how to organize your CSS better
+-   going deeper on ch, rem, vh, and the specific CSS units beyond px
+-   mobile first development, responsive design (not just setting breakpoints but having things fluidly change across sizes)
 
 ### Useful resources
 
